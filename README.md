@@ -1,4 +1,4 @@
-[![Showcase](https://img.youtube.com/vi/Ha3e9BBdqis&ab_channel=NordicGamer/0.jpg)](https://www.youtube.com/watch?v=Ha3e9BBdqis&ab_channel=NordicGamer)
+[![Showcase](Images/Shared_Memory_1.png?raw=true "Iamge 1")](https://www.youtube.com/watch?v=Ha3e9BBdqis&ab_channel=NordicGamer)
 
 # Shared Memory
 Shared memory between Autodesk Maya and custom application. Both programs share a number of files to determine how the structure looks.
