@@ -1,7 +1,7 @@
 (For english scroll down)
 
 Exempel Video/Example Video
-[![Shared memory video](https://www.youtube.com/watch?v=Ha3e9BBdqis/0.jpg)](https://www.youtube.com/watch?v=Ha3e9BBdqis)
+[![Shared memory video](https://www.youtube.com/watch?v=Ha3e9BBdqis&ab_channel=NordicGamer)](https://www.youtube.com/watch?v=Ha3e9BBdqis&ab_channel=NordicGamer)
 # Delat Minne (Svenska)
 Delat minne mellan Autodesk Maya och ett program som jag byggt själv. De båda programmen delar på ett antal filer för att kunna avgöra hur strukturen ser ut.
 
