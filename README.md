@@ -1,6 +1,4 @@
-(For english scroll down)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ha3e9BBdqis?si=xRw67MPbA_fRl8dm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Showcase](https://img.youtube.com/vi/Ha3e9BBdqis&ab_channel=NordicGamer/0.jpg)](https://www.youtube.com/watch?v=Ha3e9BBdqis&ab_channel=NordicGamer)
 
 # Shared Memory
 Shared memory between Autodesk Maya and custom application. Both programs share a number of files to determine how the structure looks.
